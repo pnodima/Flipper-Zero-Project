@@ -1,0 +1,40 @@
+# Flipper Zero Command Library
+
+Discover a curated collection of Flipper Zero commands tailored to interact with various systems, devices, and protocols. Explore the capabilities of this versatile device and enhance your understanding of its potential applications in the realm of hardware security.
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Basic Commands](#basic-commands)
+3. [Advanced Protocols](#advanced-protocols)
+4. [Security Assessments](#security-assessments)
+5. [Contributing](#contributing)
+
+## Introduction
+
+Welcome to the Flipper Zero Command Library! This repository provides a set of commands designed for the Flipper Zero, enabling users to explore and interact with different aspects of its functionality.
+
+## Basic Commands
+
+- **Command 1:** Description of Command 1.
+- **Command 2:** Description of Command 2.
+- ...
+
+## Advanced Protocols
+
+- **Protocol 1:** Description of Protocol 1.
+- **Protocol 2:** Description of Protocol 2.
+- ...
+
+## Security Assessments
+
+- **Assessment Tool 1:** Description of Assessment Tool 1.
+- **Assessment Tool 2:** Description of Assessment Tool 2.
+- ...
+
+## Contributing
+
+We welcome contributions! If you have additional Flipper Zero commands or insights to share, please check the [Contributing Guidelines](CONTRIBUTING.md).
+
+Happy exploring!
+
